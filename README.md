@@ -5,3 +5,6 @@
 **Currently Using `[ JS - HTML - CSS3 ]`** ❄
 
 **Developing Discord Bots `Discord.JS`** 🌈
+
+
+![](https://komarev.com/ghpvc/?username=riplucifer)
