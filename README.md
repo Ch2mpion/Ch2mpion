@@ -1,21 +1,43 @@
-<h1 align="center"><b>Hey there , I'm C2 </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# Hey , I'm Ch2mpion (C2) 👋
 
-<p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=B30000&center=true&vCenter=true&width=435&lines=Assalamu+Alaikum+Warahmatullah+%F0%9F%98%8F;Communication+Systems+Engineering+🧑‍💻;Addicted+to+CPP+%E2%9C%A8" alt="Typing SVG" /></a>
-</p>
+**`CSE Student | Backend & Embedded Developer`**
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&color=B30000&lines=Communication+Systems+Engineering;Java+Backend+Developer;Minecraft+Plugin+Developer;a+Simple+Web+Developer;Embedded+Systems+Enthusiast" alt="Typing Animation" />
+</div>
 
-<p align="center">
+---
 
-- **Languages**:
-    
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  
+### 🛠️ Tech Stack
 
-</p>
+**Languages:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
+**Databases:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-> __**Views Counter** :-__
+**Development Focus:**  
+
+▸ Java Backend Systems
  
-![](https://komarev.com/ghpvc/?username=riplucifer)
+▸ Embedded Systems Programming  
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ch2mpion&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ch2mpion&layout=compact&theme=default&hide_border=true" />
+</div>
+
+---
+
+### 📫 Let's Connect
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/578189217558036480)
+
